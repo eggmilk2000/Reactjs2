@@ -1,0 +1,9 @@
+.fa-star{
+    font-size: 100px;
+    cursor: pointer;
+    transition: color 200ms;
+}
+
+#Color{
+  color:yellowgreen;  
+}
